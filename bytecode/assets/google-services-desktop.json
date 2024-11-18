@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357204416647",
+    "project_id": "venomidle-survive",
+    "storage_bucket": "venomidle-survive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357204416647:android:97399412bb313a1b8c4022",
+        "android_client_info": {
+          "package_name": "com.multicastgames.venomSurvive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357204416647-p2mloo2uolfb7923b83ca4omomhoh0v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2kmJCko5uuxLqZCWxcw32-MgKwDOi-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357204416647-p2mloo2uolfb7923b83ca4omomhoh0v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

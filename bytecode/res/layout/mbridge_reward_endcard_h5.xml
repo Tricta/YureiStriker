@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/mbridge_windwv_content_rl" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/mbridge_windwv_close" android:visibility="gone" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_margin="10.0dip" android:src="@drawable/mbridge_reward_close" android:scaleType="centerInside" android:layout_alignParentRight="true" android:contentDescription="closeButton" android:layout_alignParentEnd="true" />
+</RelativeLayout>

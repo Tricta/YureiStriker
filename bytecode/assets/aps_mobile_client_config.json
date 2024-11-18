@@ -1,0 +1,17 @@
+{
+    "metrics": {
+        "mediation_latency": false,
+        "lost_bid": false,
+        "fetch_latency": false,
+        "fetch_failure": false,
+        "alert_sdk_wrapping": false,
+        "alert_sdk_wrapping_v2": false
+    },
+    "sample_rates": {
+        "wrapping_pixel": 5,
+        "distribution_pixel": 1
+    },
+    "om_sdk_feature":{
+        "denied_version_list": ["1.3.28"]
+    }
+}

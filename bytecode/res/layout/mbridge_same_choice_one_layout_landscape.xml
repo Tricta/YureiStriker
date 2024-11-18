@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mbridge.msdk.dycreator.baseview.cusview.MBridgeFramLayout android:id="@id/mbridge_choice_frl" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="75.0dip">
+        <RelativeLayout android:id="@id/mbridge_top_item_rl" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:layout_weight="1.0">
+            <com.mbridge.msdk.dycreator.baseview.cusview.MBRotationView android:id="@id/mbridge_top_ration" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.mbridge.msdk.dycreator.baseview.cusview.MBridgeImageView android:id="@id/mbridge_top_iv" android:layout_width="fill_parent" android:layout_height="150.0dip" android:scaleType="fitXY" />
+            </com.mbridge.msdk.dycreator.baseview.cusview.MBRotationView>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignTop="@id/mbridge_top_ration" android:layout_alignBottom="@id/mbridge_top_ration">
+                <ImageView android:id="@id/mbridge_top_play_bg" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/mbridge_icon_play_bg" android:layout_centerInParent="true" />
+                <ImageView android:layout_width="fill_parent" android:layout_height="45.0dip" android:src="@drawable/mbridge_bottom_media_control" android:layout_alignParentBottom="true" />
+                <ImageView android:id="@id/mbridge_top_finger_bg" android:layout_width="60.0dip" android:layout_height="75.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="18.0dip" android:src="@drawable/mbridge_finger_media_control" android:layout_alignLeft="@id/mbridge_top_play_bg" android:layout_alignTop="@id/mbridge_top_play_bg" />
+            </RelativeLayout>
+            <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/mbridge_white" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/mbridge_top_title_tv" android:background="@drawable/mbridge_reward_shape_choice" android:paddingLeft="45.0dip" android:layout_width="fill_parent" android:layout_height="45.0dip" android:lines="1" android:layout_below="@id/mbridge_top_ration" />
+            <com.mbridge.msdk.videocommon.view.RoundImageView android:id="@id/mbridge_top_icon_iv" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_margin="5.0dip" android:scaleType="centerCrop" android:layout_below="@id/mbridge_top_ration" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/mbridge_bottom_item_rl" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:layout_weight="1.0">
+            <com.mbridge.msdk.dycreator.baseview.cusview.MBRotationView android:id="@id/mbridge_bottom_ration" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.mbridge.msdk.dycreator.baseview.cusview.MBridgeImageView android:id="@id/mbridge_bottom_iv" android:layout_width="fill_parent" android:layout_height="150.0dip" android:scaleType="fitXY" />
+            </com.mbridge.msdk.dycreator.baseview.cusview.MBRotationView>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignTop="@id/mbridge_bottom_ration" android:layout_alignBottom="@id/mbridge_bottom_ration">
+                <ImageView android:id="@id/mbridge_bottom_play_bg" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/mbridge_icon_play_bg" android:layout_centerInParent="true" />
+                <ImageView android:layout_width="fill_parent" android:layout_height="45.0dip" android:src="@drawable/mbridge_bottom_media_control" android:layout_alignParentBottom="true" />
+                <ImageView android:id="@id/mbridge_bottom_finger_bg" android:layout_width="60.0dip" android:layout_height="75.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="18.0dip" android:src="@drawable/mbridge_finger_media_control" android:layout_alignLeft="@id/mbridge_bottom_play_bg" android:layout_alignTop="@id/mbridge_bottom_play_bg" />
+            </RelativeLayout>
+            <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/mbridge_white" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/mbridge_bottom_title_tv" android:background="@drawable/mbridge_reward_shape_choice" android:paddingLeft="45.0dip" android:layout_width="fill_parent" android:layout_height="45.0dip" android:lines="1" android:layout_below="@id/mbridge_bottom_ration" />
+            <com.mbridge.msdk.videocommon.view.RoundImageView android:id="@id/mbridge_bottom_icon_iv" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_margin="5.0dip" android:scaleType="centerCrop" android:layout_below="@id/mbridge_bottom_ration" />
+        </RelativeLayout>
+    </LinearLayout>
+    <TextView android:textSize="11.0sp" android:gravity="center" android:layout_gravity="right" android:id="@id/mbridge_choice_one_countdown_tv" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="25.0dip" android:layout_margin="10.0dip" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/mbridge_reward_choice_one_like_iv" android:layout_width="350.0dip" android:layout_height="55.0dip" android:layout_marginTop="20.0dip" android:src="@drawable/mbridge_reward_two_title_zh" />
+    <com.mbridge.msdk.dycreator.baseview.cusview.MBridgeDyImageView android:id="@id/mbridge_iv_link" android:layout_width="25.0dip" android:layout_height="25.0dip" android:src="@drawable/mbridge_reward_notice" />
+</com.mbridge.msdk.dycreator.baseview.cusview.MBridgeFramLayout>

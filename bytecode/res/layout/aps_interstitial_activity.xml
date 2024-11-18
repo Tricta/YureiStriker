@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" style="@style/aps_match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/inter_container" style="@style/aps_match_parent">
+        <LinearLayout android:id="@id/mraid_close_indicator" android:visibility="gone" android:contentDescription="@string/aps_mraid_close_button" style="@style/aps_mraid_close_indicator_style" />
+    </RelativeLayout>
+</LinearLayout>

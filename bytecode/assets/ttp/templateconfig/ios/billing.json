@@ -1,0 +1,389 @@
+{
+  "iaps": [
+    {
+      "id": "week",
+      "iapId": "com.multicastgames.venom.week",
+      "type": "subscription",
+      "noAds": true
+    },
+    {
+      "id": "monthly",
+      "iapId": "com.multicastgames.venom.monthly",
+      "type": "subscription",
+      "noAds": true
+    },
+    {
+      "id": "year",
+      "iapId": "com.multicastgames.venom.year",
+      "type": "subscription",
+      "noAds": true
+    },
+    {
+      "id": "book_currency_1",
+      "iapId": "book_currency_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "book_currency_2",
+      "iapId": "book_currency_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "book_currency_3",
+      "iapId": "book_currency_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "book_currency_4",
+      "iapId": "book_currency_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "crystall1",
+      "iapId": "crystall1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "crystall2",
+      "iapId": "crystall2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "crystall3",
+      "iapId": "crystall3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "crystall4",
+      "iapId": "crystall4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "crystall5",
+      "iapId": "crystall5",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "crystall6",
+      "iapId": "crystall6",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "easter_egg_1",
+      "iapId": "easter_egg_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "easter_egg_2",
+      "iapId": "easter_egg_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "easter_egg_3",
+      "iapId": "easter_egg_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "easter_egg_4",
+      "iapId": "easter_egg_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "event_currency_1",
+      "iapId": "event_currency_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "event_currency_2",
+      "iapId": "event_currency_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "event_currency_3",
+      "iapId": "event_currency_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "event_currency_4",
+      "iapId": "event_currency_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "gold_booster",
+      "iapId": "gold_booster",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_egg1",
+      "iapId": "key_egg1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_egg2",
+      "iapId": "key_egg2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_egg3",
+      "iapId": "key_egg3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_money1",
+      "iapId": "key_money1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_money2",
+      "iapId": "key_money2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_money3",
+      "iapId": "key_money3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_special1",
+      "iapId": "key_special1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_special2",
+      "iapId": "key_special2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "key_special3",
+      "iapId": "key_special3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "lama_currency_1",
+      "iapId": "lama_currency_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "lama_currency_2",
+      "iapId": "lama_currency_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "lama_currency_3",
+      "iapId": "lama_currency_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "lama_currency_4",
+      "iapId": "lama_currency_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "new_year_ball1",
+      "iapId": "new_year_ball1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "new_year_ball2",
+      "iapId": "new_year_ball2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "new_year_ball3",
+      "iapId": "new_year_ball3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "patrick_clover_1",
+      "iapId": "patrick_clover_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "patrick_clover_2",
+      "iapId": "patrick_clover_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "patrick_clover_3",
+      "iapId": "patrick_clover_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "patrick_clover_4",
+      "iapId": "patrick_clover_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "sakura_leaf_1",
+      "iapId": "sakura_leaf_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "sakura_leaf_2",
+      "iapId": "sakura_leaf_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "sakura_leaf_3",
+      "iapId": "sakura_leaf_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "sakura_leaf_4",
+      "iapId": "sakura_leaf_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "silver_boostr",
+      "iapId": "silver_boostr",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "spring_flower_1",
+      "iapId": "spring_flower_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "spring_flower_2",
+      "iapId": "spring_flower_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "spring_flower_3",
+      "iapId": "spring_flower_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "spring_flower_4",
+      "iapId": "spring_flower_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "surfer_currency_1",
+      "iapId": "surfer_currency_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "surfer_currency_2",
+      "iapId": "surfer_currency_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "surfer_currency_3",
+      "iapId": "surfer_currency_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "surfer_currency_4",
+      "iapId": "surfer_currency_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "toy_currency_1",
+      "iapId": "toy_currency_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "toy_currency_2",
+      "iapId": "toy_currency_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "toy_currency_3",
+      "iapId": "toy_currency_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "toy_currency_4",
+      "iapId": "toy_currency_4",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "valentine_heart_1",
+      "iapId": "valentine_heart_1",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "valentine_heart_2",
+      "iapId": "valentine_heart_2",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "valentine_heart_3",
+      "iapId": "valentine_heart_3",
+      "type": "consumable",
+      "noAds": false
+    },
+    {
+      "id": "valentine_heart_4",
+      "iapId": "valentine_heart_4",
+      "type": "consumable",
+      "noAds": false
+    }
+  ],
+  "deferInit": true,
+  "included": false,
+  "purchaseValidation": {
+    "active": true,
+    "timeoutInterval": 10,
+    "account": "Crazy Labs"
+  }
+}

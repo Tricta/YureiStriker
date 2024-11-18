@@ -1,0 +1,18 @@
+{
+  "store": "apple",
+  "gameEngine": "unity",
+  "audienceModeBuildOnly": "non-children",
+  "orientation": "portrait",
+  "geoLocationServer": "ttplugins.ttpsdk.info",
+  "bundleId": "com.multicastgames.venomSurvive",
+  "testMode": false,
+  "askForTracking": true,
+  "appId": "6443697602",
+  "isAdMob": false,
+  "conversionEnabled": false,
+  "appBuildConfig": {
+    "admob": {
+      "application": "ca-app-pub-3931733387388856~8716480965"
+    }
+  }
+}

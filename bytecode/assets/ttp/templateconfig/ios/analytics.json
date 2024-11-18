@@ -1,0 +1,12 @@
+{
+  "included": true,
+  "firebase": {
+    "googleAppId": "1:357204416647:ios:588a72aa31a9a94c8c4022",
+    "apiKey": "AIzaSyCCuX6SQA_RlHBfk222r8Zh-aBttOkjWMQ",
+    "projectId": "venomidle-survive",
+    "clientId": "357204416647-v7vevojkmugqpqts0cf9q0upf912atg1.apps.googleusercontent.com",
+    "senderId": "357204416647",
+    "storageBucket": "venomidle-survive.appspot.com",
+    "databaseURL": ""
+  }
+}

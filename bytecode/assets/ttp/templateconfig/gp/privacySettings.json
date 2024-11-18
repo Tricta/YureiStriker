@@ -1,0 +1,8 @@
+{
+  "included": true,
+  "consentFormVersion": "7.1",
+  "consentFormURL": "https://promo-images.ttpsdk.info/privacyForms/consent-form/crazylabs/7.1/skin.zip",
+  "privacySettingsURL": "https://promo-images.ttpsdk.info/privacyForms/privacy-settings/crazylabs/7.1/skin.zip",
+  "useTTPGDPRPopups": true,
+  "serverDomain": "ttplugins.ttpsdk.info"
+}

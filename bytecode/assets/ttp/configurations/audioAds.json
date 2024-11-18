@@ -1,0 +1,11 @@
+{
+  "included": false,
+  "odeeoKey": "",
+  "audioAdsPosition": "",
+  "audioAdsOffsetX": "50",
+  "audioAdsOffsetY": "60",
+  "audioAdsSize": "130",
+  "audioAdsType": "",
+  "audioAdBuffer": "10",
+  "timeIntervalBetweenAudioAds": "30"
+}

@@ -1,0 +1,48 @@
+{
+  "popupsIntervalsBySession": {
+    "1": [
+      15
+    ]
+  },
+  "timeBetweenRvAndInterBySession": {
+    "1": 0
+  },
+  "gameTimeToFirstPopupBySession": {
+    "1": 15
+  },
+  "sessionTimeToFirstPopupBySession": {
+    "1": 15
+  },
+  "resetPopupTimerOnAppOpenBySession": {
+    "1": false
+  },
+  "firstPopupAtSession": 1,
+  "levelToFirstPopup": 0,
+  "cacheAdsOnShow": false,
+  "appOpenBackFromBackground": true,
+  "byCountry": {
+    "Default": {
+      "popupsIntervalsBySession": {
+        "1": [
+          15
+        ]
+      },
+      "timeBetweenRvAndInterBySession": {
+        "1": 0
+      },
+      "gameTimeToFirstPopupBySession": {
+        "1": 15
+      },
+      "sessionTimeToFirstPopupBySession": {
+        "1": 15
+      },
+      "resetPopupTimerOnAppOpenBySession": {
+        "1": false
+      },
+      "firstPopupAtSession": 1,
+      "levelToFirstPopup": 0,
+      "cacheAdsOnShow": false,
+      "appOpenBackFromBackground": true
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/mbridge_reward_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/mbridge_videoview_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <FrameLayout android:id="@id/mbridge_vfpv_fl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <com.mbridge.msdk.playercommon.PlayerView android:gravity="center" android:id="@id/mbridge_vfpv" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <com.mbridge.msdk.dycreator.baseview.cusview.MBridgeBaitClickView android:id="@id/mbridge_animation_click_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.mbridge.msdk.dycreator.baseview.rewardpopview.MBAcquireRewardPopView android:id="@id/mbridge_reward_popview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/mbridge_top_control" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_alignParentTop="true">
+        <ImageView android:gravity="center" android:id="@id/mbridge_iv_link" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginLeft="10.0dip" android:src="@drawable/mbridge_reward_notice" android:layout_alignParentLeft="true" android:layout_marginStart="10.0dip" android:layout_alignParentStart="true" />
+        <com.mbridge.msdk.widget.FeedBackButton android:textSize="11.0sp" android:gravity="center" android:id="@id/mbridge_native_endcard_feed_btn" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="25.0dip" android:layout_marginLeft="10.0dip" android:text="@string/mbridge_cm_feedback_btn_text" android:layout_alignTop="@id/mbridge_iv_link" android:layout_alignParentLeft="true" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/mbridge_iv_link" android:layout_alignParentStart="true" />
+        <TextView android:textSize="11.0sp" android:textColor="@color/mbridge_white" android:gravity="center" android:id="@id/mbridge_tv_count" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginLeft="10.0dip" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/mbridge_native_endcard_feed_btn" />
+        <ImageView android:layout_gravity="end" android:id="@id/mbridge_rl_playing_close" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/mbridge_reward_close" android:layout_alignParentRight="true" android:contentDescription="closeButton" android:layout_marginEnd="10.0dip" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/mbridge_reward_bottom_widget" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <com.mbridge.msdk.dycreator.baseview.cusview.SoundImageView android:id="@id/mbridge_sound_switch" android:background="@drawable/mbridge_reward_end_close_shape_oval" android:padding="6.0dip" android:visibility="visible" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="10.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/mbridge_reward_sound_open" android:layout_marginStart="10.0dip" />
+        <com.mbridge.msdk.dycreator.baseview.cusview.MBridgeSegmentsProgressBar android:id="@id/mbridge_reward_segment_progressbar" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+        <FrameLayout android:id="@id/mbridge_reward_cta_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" />
+    </LinearLayout>
+</RelativeLayout>

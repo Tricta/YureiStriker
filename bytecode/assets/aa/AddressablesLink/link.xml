@@ -1,0 +1,720 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DefaultNamespace.BoolGamePropertyGameObjectActivity" preserve="all" />
+    <type fullname="EpicToonFX.ETFXPitchRandomizer" preserve="all" />
+    <type fullname="FIMSpace.FTail.TailAnimator2" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.LunarCheatsModule" preserve="all" />
+    <type fullname="Game.UI.Scripts.LocalizedTMPWorldText" preserve="all" />
+    <type fullname="IndieMarc.CurvedLine.CurvedLine3D" preserve="all" />
+    <type fullname="Multicast.Modules.AdAchievements.Adjust.AdjustAdAchievementsAnalyticsModule" preserve="all" />
+    <type fullname="Multicast.Modules.AdAchievements.FirebaseNative.FirebaseNativeAdAchievementsAnalyticsModule" preserve="all" />
+    <type fullname="Multicast.Modules.LevelProgression.Adjust.AdjustLevelProgressionAnalyticsAdapterModule" preserve="all" />
+    <type fullname="Multicast.Modules.LevelProgression.FirebaseNative.FirebaseNativeLevelProgressionAnalyticsAdapterModule" preserve="all" />
+    <type fullname="Multicast.Modules.TtpModule.PurchaseHandlerModule" preserve="all" />
+    <type fullname="Multicast.Modules.TtpModule.TtpModule" preserve="all" />
+    <type fullname="PlayTweenOnEnable" preserve="all" />
+    <type fullname="Scripts.FeatureToggleObject" preserve="all" />
+    <type fullname="TailDemo_SkinnedMeshGenerator" preserve="all" />
+    <type fullname="TMPPropagateMaskable" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshModifier" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshSurface" preserve="all" />
+    <type fullname="FIMSpace.FTail.TailAnimator2/TailSegment" preserve="nothing" serialized="true" />
+    <type fullname="FIMSpace.FTools.FIK_CCDProcessor" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.Modules.AdAchievements.Adjust.AdjustAdAchievementsConfiguration" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TCP2_Demo_InvertedMaskImage" preserve="all" />
+  </assembly>
+  <assembly fullname="BrunoMikoski.AnimationSequencer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BrunoMikoski.AnimationSequencer.AnimationSequencerController" preserve="all" />
+    <type fullname="BrunoMikoski.AnimationSequencer.DOTweenAnimationStep" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.FadeCanvasGroupDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.MoveToPositionDOTweenActionBase" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.PunchPositionDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.PunchScaleDOTweenAction" preserve="nothing" serialized="true" />
+    <type fullname="BrunoMikoski.AnimationSequencer.ScaleDOTweenAction" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineBasicMultiChannelPerlin" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
+    <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineOrbitalTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="Cinemachine.AxisState" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.AxisState/Recentering" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineOrbitalTransposer/Heading" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/NoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/TransformNoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CodeWriter.StyleComponents.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CodeWriter.StyleComponents.Adapters.TextStyleAdapter" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.ImageColorStyle" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.ImageSpriteStyle" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.RectTransformAnchoredPositionStyle" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.RectTransformSizeStyle" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.StyleApplicator" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.StyleAssets.ColorStyleAsset" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.StyleAssets.SpriteStyleAsset" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.StyleAssets.TextStyleAsset" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.StyleAssets.Vector2StyleAsset" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.TmpTextColorStyle" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.TmpTextLocalizeStyle" preserve="all" />
+    <type fullname="CodeWriter.StyleComponents.TmpTextStyle" preserve="all" />
+  </assembly>
+  <assembly fullname="CodeWriter.ViewBinding, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CodeWriter.ViewBinding.Binders.UI.ButtonClickBinder" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Binders.UI.InputFieldTextChangedBinder" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Binders.UI.ToggleValueChangedBinder" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.ViewEventBool" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.ViewEventString" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.ViewEventVoid" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.ViewVariableBool" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.ViewVariableFloat" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.ViewVariableInt" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.ViewVariableString" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CodeWriter.ViewBinding.Applicators, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.BoolToFormattedStringAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.BoolToStringAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.CompareStringAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.FloatFormatAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.FloatRatioAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.FormattedTextAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.TextLocalizeAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.TimeLocalizeAdapter" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.ComponentEnabledApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.GameObjectActivityApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.AnimatorIntParameterValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.AnimatorStringParameterValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.ButtonInteractableApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.FormattedTMPTextApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.GameObjectActivityConditionalIntParameterValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.GameObjectActivityIntParameterValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.ImageEnabledApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.ImageFillAmountApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.MaterialFloatParameterValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.RectTransformIntParameterValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.SliderValueAnimatedApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.SliderValueApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.TmpMaxCharacterVisibleApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.TMPTextApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.ToggleApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.ValueAnimatorTriggerApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UnityEvent.UnityEventBoolApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Extras.CanvasGroupAlphaApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.LocalizedTMPTextApplicator" preserve="all" />
+    <type fullname="RectTransformAdjuster" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.FloatFormatAdapter/ViewVariableFloatFormatted" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.FormattedTextAdapter/ViewVariableString" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.TextLocalizeAdapter/ViewVariableStringLocalized" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.Adapters.TimeLocalizeAdapterBase/ViewVariableTimeLocalized" preserve="nothing" serialized="true" />
+    <type fullname="CodeWriter.ViewBinding.Applicators.UI.RectTransformIntParameterValueApplicator/IntCompareRange" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CodeWriter.ViewBinding.Extras, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CodeWriter.ViewBinding.Extras.ImageGroupSpriteApplicator" preserve="all" />
+    <type fullname="CodeWriter.ViewBinding.Extras.PlayAnimationSequencer" preserve="all" />
+  </assembly>
+  <assembly fullname="DOTweenPro, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenVisualManager" preserve="all" />
+  </assembly>
+  <assembly fullname="DOTweenPro.Scripts, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+  </assembly>
+  <assembly fullname="Game.ECS, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Game.ECS.Simulation.Providers.AnimatorProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.BatchedEnvObjectProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.BoosterSpawnItemProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.CampfireRadiusProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.CinemachineBrainProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.CinematicProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.ConstructionNotifierProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.ConstructionProgressProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.ConstructionVisualLevelProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.DebugBoosterSpawnRadiusProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.DecorationRootProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.DeliverVisualProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.DropAnimationCameraProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.DropAnimationProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.FocusCameraProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.GateDescriptionProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.GateProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.GateTimerProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.HeroBoosterEffectsProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.HeroEatUnitEffectProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.MainCameraProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.MinesProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.MultiprogressHeroEatUnitEffectProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.NavMeshAgentProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.PlayerCameraProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.PortalProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.QuesterCollectionNotifiersProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.QuesterObjectsProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.QuestNotifierProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.QuestObjectProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.QuestRendererProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.RespawnPointMarkerProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.TimedEventBaseProgressProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.TransformProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.UnitHealthVisualProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.VenomLegProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.VisualDropProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.VisualFoundryProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.VisualRootProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Providers.WorldCurrencyEffectTargetProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.AnimatorStatePlayer" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.BoosterSpawnerConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.ConstructionConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.ConstructionProgressConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.EnvBatchConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.FishingRodConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.GateTrigger" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.HeroConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.HeroSkinConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.QuesterGoalRootConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.QuestTriggerProvider" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.QuestUnitConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.Temperature.TemperatureMap" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.UnitConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.VenomLegOrigin" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.WorldPointerConfig" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Scripts.WorldTimer" preserve="all" />
+    <type fullname="Game.ECS.Simulation.SimulationInstaller" preserve="all" />
+    <type fullname="Game.ECS.Simulation.Components.AnimatorComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.BoosterSpawnerItemComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.CampfireRadiusComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.CinematicComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.ConstructionNotifierComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.ConstructionProgressComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.ConstructionVisualLevelComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.DebugBoosterSpawnerComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.DecorationRootComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.DeliverVisualComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.FocusCameraComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.GateComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.GateDescriptionComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.GateTimerComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.HealthVisual" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.HeroBoosterEffectsComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.HeroEatUnitEffectComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.MinesComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.MultiprogressHeroEatUnitEffectComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.NavMeshAgentComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.PortalComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuestNotifierComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuestObject" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuestObjectComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuestRendererComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuestTriggerComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuesterCollectionNotifiersComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.QuesterObjectsComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.TimedEventBaseProgressComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.TransformComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.UnitHealthVisualComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.VenomLegComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.VisualDropComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.VisualFoundryComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.VisualRootComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.WorldCurrencyEffectTargetComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.BatchedEnvObjectComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.CinemachineBrainComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.MainCameraComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.PlayerCameraComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.DropAnimationCameraComponent" preserve="nothing" serialized="true" />
+    <type fullname="Game.ECS.Simulation.Components.DropAnimationComponent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Game.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BoosterConfigsModule" preserve="all" />
+    <type fullname="BoosterSpawnsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Core.GameDefModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Core.GameMainModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Core.GameUserDataModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.AchievementsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.AdOffersModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.CampfiresModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.CardsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ConstructionsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ContextualOffersModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.CurrenciesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.CurrencyPurchasesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.DecorationModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ExchangersModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.FogAreasModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.GateTimersModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.HeroesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.InterstitialAdsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ItemsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.LocationsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.MailBoxModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.MedalUpgradesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.MessageModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.MinesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ProgressUpgradesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.PromoCodeModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.QuestsGoalsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.QuestsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.RatesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ReactorProbabilitiesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ReactorsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.RollingOffersModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.RVBingesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.StoreGiftsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.StoreItemsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.SubscriptionsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.TemperatureModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.TimedCardsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.TimedChestsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.TimedEventsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.TutorialsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.UnitsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.UnitZonesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.UpgradeConstructionModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.UpgradesModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Features.ZoneLevelsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Utils.SettingsModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Utils.VibrationModule" preserve="all" />
+    <type fullname="Game.UI.Scripts.Audio.AudioButton" preserve="all" />
+    <type fullname="Game.UI.Scripts.Vibration.SpineAnimationController" preserve="all" />
+    <type fullname="Game.UI.Views.AdOffer.AdOfferRewardView" preserve="all" />
+    <type fullname="Game.UI.Views.AdOffer.AdOfferView" preserve="all" />
+    <type fullname="Game.UI.Views.AdOffer.AdOfferWindowView" preserve="all" />
+    <type fullname="Game.UI.Views.Boosters.BoosterSpawnPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.Boosts.BoostItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Cards.CardBoostItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Cards.CardItemMenuView" preserve="all" />
+    <type fullname="Game.UI.Views.Cards.CardItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Chests.TimedChestButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.AlertDialogView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.CollectCurrenciesPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.ConfirmationScreenView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.CostButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.CostEntitledButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.GroupingView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.PopupButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.PopupHeaderTabView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.PopupView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.RVOfferUpgradesButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.ScreenView" preserve="all" />
+    <type fullname="Game.UI.Views.Common.SpecialPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.CollectAllMinesButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.ConstructionDescriptionView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.ConstructionView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.MinesView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.QuestPanelView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.QuestUpgradeView" preserve="all" />
+    <type fullname="Game.UI.Views.Constructions.QuestWindowView" preserve="all" />
+    <type fullname="Game.UI.Views.ContextualOffer.ContextualOfferPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.ContextualOffer.ContextualOfferStoreHeaderView" preserve="all" />
+    <type fullname="Game.UI.Views.ContextualOffer.ContextualOfferView" preserve="all" />
+    <type fullname="Game.UI.Views.Currencies.AnimatedCurrencyView" preserve="all" />
+    <type fullname="Game.UI.Views.Currencies.CurrencyView" preserve="all" />
+    <type fullname="Game.UI.Views.Currencies.DelayedCurrencyView" preserve="all" />
+    <type fullname="Game.UI.Views.Currencies.ExpCompactView" preserve="all" />
+    <type fullname="Game.UI.Views.Drops.CollectDropButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Drops.DamageEffectView" preserve="all" />
+    <type fullname="Game.UI.Views.Drops.DropView" preserve="all" />
+    <type fullname="Game.UI.Views.Drops.MedalUpgradeView" preserve="all" />
+    <type fullname="Game.UI.Views.Drops.SubscriptionDailyDropHeaderView" preserve="all" />
+    <type fullname="Game.UI.Views.Exchangers.ExchangerMenuItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Gameplay.CameraFocusView" preserve="all" />
+    <type fullname="Game.UI.Views.Gameplay.PlayerDeadScreenView" preserve="all" />
+    <type fullname="Game.UI.Views.HeroSkins.HeroSkinDescriptionView" preserve="all" />
+    <type fullname="Game.UI.Views.HeroSkins.HeroSkinItemMenuView" preserve="all" />
+    <type fullname="Game.UI.Views.HeroSkins.HeroSkinItemView" preserve="all" />
+    <type fullname="Game.UI.Views.HeroSkins.HeroSkinStatsItemView" preserve="all" />
+    <type fullname="Game.UI.Views.IconView" preserve="all" />
+    <type fullname="Game.UI.Views.Locations.LocationItemView" preserve="all" />
+    <type fullname="Game.UI.Views.MailBox.MailBoxItemView" preserve="all" />
+    <type fullname="Game.UI.Views.MailBox.MailBoxMessageView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.Joystick" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuCargoView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuContainerView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuExpView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuHpView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuJoystickView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuLeftContainerView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuLevelCostView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuMailBoxButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuRightContainerView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuSecondaryCurrenciesView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuSettingsButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuShopButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuSkinsButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuStatsButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuTemperatureNotifierView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuTimedLimitedBoostersView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuUpgradesButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.MainMenu.MainMenuView" preserve="all" />
+    <type fullname="Game.UI.Views.MedalShop.MedalShopTabView" preserve="all" />
+    <type fullname="Game.UI.Views.MedalShop.MedalShopView" preserve="all" />
+    <type fullname="Game.UI.Views.MedalShop.MedalUpgradeMenuItemView" preserve="all" />
+    <type fullname="Game.UI.Views.MedalShop.MedalUpgradesView" preserve="all" />
+    <type fullname="Game.UI.Views.Mines.InvestmentMineMessageView" preserve="all" />
+    <type fullname="Game.UI.Views.PiggyBank.PiggyBankButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.PiggyBank.PiggyBankInfoPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.PiggyBank.PiggyBankPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Drops.PurchasesCurrencyDropView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchaseIapWithBonusItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchaseKeyIapItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchasesBundleIapItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchasesCurrencyItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchasesGiftItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchasesIapItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchasesPowerUpItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.Items.PurchasesTimedCardItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.PurchaseNotEnoughView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.PurchasesStoreCategoryView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.PurchasesStoreScreenView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.PurchasesStoreTabView" preserve="all" />
+    <type fullname="Game.UI.Views.Purchases.PurchasesTopUpView" preserve="all" />
+    <type fullname="Game.UI.Views.Quests.QuestElementView" preserve="all" />
+    <type fullname="Game.UI.Views.Quests.QuesterProgressWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.Quests.QuestRocketView" preserve="all" />
+    <type fullname="Game.UI.Views.Quests.QuestView" preserve="all" />
+    <type fullname="Game.UI.Views.Quests.QuestWinterView" preserve="all" />
+    <type fullname="Game.UI.Views.Rate.OpinionView" preserve="all" />
+    <type fullname="Game.UI.Views.Rate.RateView" preserve="all" />
+    <type fullname="Game.UI.Views.Reactors.ReactorItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Reactors.ReactorMessageView" preserve="all" />
+    <type fullname="Game.UI.Views.Reactors.ReactorStateMessageView" preserve="all" />
+    <type fullname="Game.UI.Views.Reactors.ReactorStateView" preserve="all" />
+    <type fullname="Game.UI.Views.RollingOffers.RollingOfferCurrencyRewardView" preserve="all" />
+    <type fullname="Game.UI.Views.RollingOffers.RollingOfferItemView" preserve="all" />
+    <type fullname="Game.UI.Views.RVBinge.RVBingeButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.RVBinge.RVBingePopupView" preserve="all" />
+    <type fullname="Game.UI.Views.Settings.SettingsButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Settings.SettingsSwitcherView" preserve="all" />
+    <type fullname="Game.UI.Views.Settings.SettingsToggleView" preserve="all" />
+    <type fullname="Game.UI.Views.Stats.StatsMenuItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Subscription.RestoredPurchasesView" preserve="all" />
+    <type fullname="Game.UI.Views.Subscription.SubscriptionButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Subscription.SubscriptionTypeButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.Subscription.SubscriptionView" preserve="all" />
+    <type fullname="Game.UI.Views.Temperature.FreezingEffectView" preserve="all" />
+    <type fullname="Game.UI.Views.Temperature.TemperatureView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.EventInfoPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Leaderboard.TimedEventLeaderboardCompactView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Leaderboard.TimedEventLeaderboardPositionItemView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Leaderboard.TimedEventLeaderboardTabView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.MultiprogressBuyPassView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.MultiprogressCurrencyView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.MultiprogressEventPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.MultiprogressProgressView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.MultiProgressTimeEventPurchasePassPopupView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Progressions.MultiprogressEventCurrencyRewardView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Progressions.MultiprogressEventRewardsView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Progressions.MultiprogressEventStageItemView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Progressions.MultiprogressEventUpgradeRewardView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Progressions.TimedEventProgressBarView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.Progressions.TimedEventRewardItemView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.ProgressUpgrades.ProgressUpgradeProgressBarView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.ProgressUpgrades.ProgressUpgradeRewardItemView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.TimedEventButtonView" preserve="all" />
+    <type fullname="Game.UI.Views.TimedEvents.TimedEventInfoView" preserve="all" />
+    <type fullname="Game.UI.Views.UINotificationMessages.UINotificationMessageView" preserve="all" />
+    <type fullname="Game.UI.Views.UnitZones.UnitZoneTimerInfoView" preserve="all" />
+    <type fullname="Game.UI.Views.Upgrades.UpgradesMenuItemView" preserve="all" />
+    <type fullname="Game.UI.Views.Upgrades.UpgradesReactorMenuItemView" preserve="all" />
+    <type fullname="Game.UI.Views.World.AmplifierWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.BotCargoWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.CampfireWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.ConstructionWorldViewContainer" preserve="all" />
+    <type fullname="Game.UI.Views.World.DamageEffectWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.EventWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.ExchangerWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.FogAreaCellWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.GateDescriptionWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.GateTimerWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.GateWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.HeroCargoEffectView" preserve="all" />
+    <type fullname="Game.UI.Views.World.HeroExperienceEffectView" preserve="all" />
+    <type fullname="Game.UI.Views.World.MarketWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.MineWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.PortalWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.QuesterWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.SubscriptionWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.UnitAdBlockWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.UnitCurrencyEffectView" preserve="all" />
+    <type fullname="Game.UI.Views.World.UnitHealthBarView" preserve="all" />
+    <type fullname="Game.UI.Views.World.UnitZoneTimerView" preserve="all" />
+    <type fullname="Game.UI.Views.World.UnitZoneUnlockWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.WinterBaseWorldView" preserve="all" />
+    <type fullname="Game.UI.Views.World.WorldView" preserve="all" />
+    <type fullname="Multicast.UI.Views.OverlayRenderView" preserve="all" />
+    <type fullname="PiggyBankModule" preserve="all" />
+    <type fullname="TimedLimitedBoostersModule" preserve="all" />
+    <type fullname="Game.UI.Modules.Utils.SettingsModule/QualityMaterialShader" preserve="nothing" serialized="true" />
+    <type fullname="Game.UI.Scripts.Vibration.SpineAnimationController/SpineAnimationInfo" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LunarConsole, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LunarConsolePlugin.LunarConsole" preserve="all" />
+    <type fullname="LunarConsolePlugin.ExceptionWarningSettings" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LogEntryColors" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LogOverlayColors" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LogOverlaySettings" preserve="nothing" serialized="true" />
+    <type fullname="LunarConsolePlugin.LunarConsoleSettings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Multicast.Foundation, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Multicast.BigDoubleFormulaAdapter" preserve="all" />
+    <type fullname="Multicast.BigDoubleRatioAdapter" preserve="all" />
+    <type fullname="Multicast.BigDoubleToFloatAdapter" preserve="all" />
+    <type fullname="Multicast.BoolToImageColorApplicator" preserve="all" />
+    <type fullname="Multicast.FloatToMultiplierAdapter" preserve="all" />
+    <type fullname="Multicast.FloatToPercentAdapter" preserve="all" />
+    <type fullname="Multicast.ImageColorRangeApplicator" preserve="all" />
+    <type fullname="Multicast.IntToFloatAdapter" preserve="all" />
+    <type fullname="Multicast.Localization.LocalizationTable" preserve="all" />
+    <type fullname="Multicast.Modules.AdAchievements.AdAchievementsModule" preserve="all" />
+    <type fullname="Multicast.Modules.AdAchievements.AppMetrica.AppMetricaAdAchievementsAnalyticsModule" preserve="all" />
+    <type fullname="Multicast.Modules.Advertising.Dummy.DummyAdvertisingModule" preserve="all" />
+    <type fullname="Multicast.Modules.Advertising.MaxSdk.AdvertisingMaxSdkModule" preserve="all" />
+    <type fullname="Multicast.Modules.AppMetrica.AppMetricaAnalyticsModule" preserve="all" />
+    <type fullname="Multicast.Modules.AppMetrica.ProfileAttributes.AppMetricaUserProfileModule" preserve="all" />
+    <type fullname="Multicast.Modules.AppMetrica.UserTracking.AppMetricaUserTrackingModule" preserve="all" />
+    <type fullname="Multicast.Modules.Events.Dummy.DummyEventsModule" preserve="all" />
+    <type fullname="Multicast.Modules.Facebook.FacebookModule" preserve="all" />
+    <type fullname="Multicast.Modules.IapValidation.RevenueCat.MulticastRevenueCatListener" preserve="all" />
+    <type fullname="Multicast.Modules.IapValidation.RevenueCat.RevenueCatValidatorModule" preserve="all" />
+    <type fullname="Multicast.Modules.IapValidation.UnityIapValidator.UnityIapValidatorModule" preserve="all" />
+    <type fullname="Multicast.Modules.Notifications.Android.GameNotificationsAndroidPlatformModule" preserve="all" />
+    <type fullname="Multicast.Modules.Notifications.Dummy.GameNotificationsDummyPlatformModule" preserve="all" />
+    <type fullname="Multicast.Modules.Notifications.IOS.GameNotificationsIOSPlatformModule" preserve="all" />
+    <type fullname="Multicast.Modules.Purchasing.Dummy.DummyPurchasingModule" preserve="all" />
+    <type fullname="Multicast.Modules.Purchasing.UnityIAP.UnityIapPurchasingModule" preserve="all" />
+    <type fullname="Multicast.Modules.SoundEffect.SoundEffectModule" preserve="all" />
+    <type fullname="Multicast.Modules.SoundTrack.SoundTrackModule" preserve="all" />
+    <type fullname="Multicast.Modules.UnityServices.UnityServicesModule" preserve="all" />
+    <type fullname="Multicast.Modules.UserTracking.AlwaysAllowUserTrackingModule" preserve="all" />
+    <type fullname="Multicast.MultiConditionAdapter" preserve="all" />
+    <type fullname="Multicast.Notifications.GameNotificationsModule" preserve="all" />
+    <type fullname="Multicast.RectTransformDeltaSizeApplicator" preserve="all" />
+    <type fullname="Multicast.SafeArea.RectFilter" preserve="all" />
+    <type fullname="Multicast.SafeArea.SafeAreaFilter" preserve="all" />
+    <type fullname="Multicast.TiledWorldGenerator.Brush" preserve="all" />
+    <type fullname="Multicast.TiledWorldGenerator.Chunk" preserve="all" />
+    <type fullname="Multicast.TiledWorldGenerator.Generator" preserve="all" />
+    <type fullname="Multicast.TiledWorldGenerator.GeneratorCulling" preserve="all" />
+    <type fullname="Multicast.UI.Views.OverlayView" preserve="all" />
+    <type fullname="Multicast.Unity.DontDestroyOnLoad" preserve="all" />
+    <type fullname="Sound.SoundAsset" preserve="all" />
+    <type fullname="Multicast.ExpressionParser.FormulaPredicate" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.Numerics.BigDouble" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.TiledWorldGenerator.Chunk/GridNode" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.Modules.Advertising.MaxSdk.MaxSdkAdConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.Modules.AppMetrica.AppMetricaSdkConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.Modules.Events.Dummy.DummyEventsProvider/EventData" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.Modules.Purchasing.Dummy.DummyPurchasing/Options" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.ColorValuePair" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.MultiConditionAdapter_BigDouble/Constant" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.MultiConditionAdapter_BigDouble/Dynamic" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.MultiConditionAdapter_Boolean/Constant" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.MultiConditionAdapter_Float/Constant" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.MultiConditionAdapter_Integer/Constant" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.MultiConditionAdapter_Integer/Dynamic" preserve="nothing" serialized="true" />
+    <type fullname="Multicast.ViewVariableBigDouble" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="revenuecat.purchases-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Purchases" preserve="all" />
+  </assembly>
+  <assembly fullname="Scellecs.Morpeh, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Scellecs.Morpeh.Providers.EntityProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonSubmeshGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+    <type fullname="Spine.Unity.BlendModeMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.BlendModeMaterials/ReplacementMaterial" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator/Settings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Tayx.Graphy, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Tayx.Graphy.Advanced.G_AdvancedData" preserve="all" />
+    <type fullname="Tayx.Graphy.Audio.G_AudioGraph" preserve="all" />
+    <type fullname="Tayx.Graphy.Audio.G_AudioManager" preserve="all" />
+    <type fullname="Tayx.Graphy.Audio.G_AudioMonitor" preserve="all" />
+    <type fullname="Tayx.Graphy.Audio.G_AudioText" preserve="all" />
+    <type fullname="Tayx.Graphy.Fps.G_FpsGraph" preserve="all" />
+    <type fullname="Tayx.Graphy.Fps.G_FpsManager" preserve="all" />
+    <type fullname="Tayx.Graphy.Fps.G_FpsMonitor" preserve="all" />
+    <type fullname="Tayx.Graphy.Fps.G_FpsText" preserve="all" />
+    <type fullname="Tayx.Graphy.GraphyManager" preserve="all" />
+    <type fullname="Tayx.Graphy.Ram.G_RamGraph" preserve="all" />
+    <type fullname="Tayx.Graphy.Ram.G_RamManager" preserve="all" />
+    <type fullname="Tayx.Graphy.Ram.G_RamMonitor" preserve="all" />
+    <type fullname="Tayx.Graphy.Ram.G_RamText" preserve="all" />
+  </assembly>
+  <assembly fullname="UniMob.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UniMob.UI.Widgets.ViewPanel" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_ColorGradient" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_Settings" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
+    <type fullname="TMPro.TMP_StyleSheet" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AI.NavMeshAgent" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshData" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshObstacle" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animations.PositionConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.AvatarMask" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

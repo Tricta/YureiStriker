@@ -1,0 +1,13 @@
+{
+  "admob": {
+    "application": {
+      "ios": "GADApplicationIdentifier",
+      "android": "admob_app_id"
+    }
+  },
+  "google":{
+    "googlePlayId": {
+      "android": "app_id"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/mbridge_video_common_alertview_button_height" android:width="@dimen/mbridge_video_common_alertview_button_width" />
+    <corners android:radius="@dimen/mbridge_video_common_alertview_button_radius" />
+    <solid android:color="@color/mbridge_video_common_alertview_cancel_button_bg_pressed" />
+</shape>

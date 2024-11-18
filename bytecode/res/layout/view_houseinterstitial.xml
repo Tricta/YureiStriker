@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <VideoView android:id="@id/videoView" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <ImageButton android:id="@id/closeBtn" android:background="@null" android:visibility="gone" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_margin="24.0dip" android:scaleType="fitCenter" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" style="@android:style/Widget.Button" />
+</merge>

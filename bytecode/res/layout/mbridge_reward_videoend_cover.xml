@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/mbridge_color_cc000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="right" android:id="@id/mbridge_vec_iv_close" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="10.0dip" android:src="@drawable/mbridge_reward_close_ec" />
+    <RelativeLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/mbridge_vec_iv_icon" android:layout_width="65.0dip" android:layout_height="65.0dip" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/mbridge_white" android:ellipsize="end" android:id="@id/mbridge_vec_tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="54.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="54.0dip" android:singleLine="true" android:layout_below="@id/mbridge_vec_iv_icon" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/mbridge_color_999999" android:ellipsize="end" android:id="@id/mbridge_vec_tv_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="54.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="54.0dip" android:singleLine="true" android:layout_below="@id/mbridge_vec_tv_title" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/mbridge_white" android:gravity="center" android:id="@id/mbridge_vec_btn" android:background="@drawable/mbridge_reward_shape_videoend_buttonbg" android:layout_width="200.0dip" android:layout_height="36.0dip" android:layout_margin="28.0dip" android:layout_below="@id/mbridge_vec_tv_desc" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</FrameLayout>

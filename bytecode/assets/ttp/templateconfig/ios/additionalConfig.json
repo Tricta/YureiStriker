@@ -1,0 +1,5 @@
+{
+  "attExplainer": false,
+  "debugEvents":true,
+	"filterNonClikEventsByGeo":false
+}

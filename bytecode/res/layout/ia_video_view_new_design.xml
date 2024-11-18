@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:background="@color/ia_video_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/ia_texture_view_host" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/ia_iv_last_frame" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+    <TextView android:id="@id/ia_tv_app_info_button" android:visibility="visible" android:layout_marginLeft="12.0dip" android:layout_marginBottom="12.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" style="@style/ia_tv_app_info_btn_style" />
+    <FrameLayout android:id="@id/ia_paused_video_overlay" android:background="@color/ia_video_transparent_overlay" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/ia_iv_play_button" style="@style/ia_play_button_style" />
+    </FrameLayout>
+    <include android:id="@id/ia_default_endcard_video_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" layout="@layout/ia_default_video_end_card" />
+    <FrameLayout android:id="@id/ia_endcard_video_overlay" android:background="@color/ia_video_transparent_overlay" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" android:contentDescription="ia_endcard_video_overlay" />
+    <include android:id="@id/ia_buffering_overlay" android:visibility="gone" layout="@layout/ia_buffering_overlay" />
+    <ImageView android:id="@id/ia_iv_expand_collapse_button" android:visibility="gone" style="@style/ia_expand_collapse_button_style" />
+    <include android:id="@id/ia_video_controls_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/video_overlay" />
+    <include android:id="@id/ia_click_overlay" android:visibility="gone" layout="@layout/ia_click_overlay" />
+    <FrameLayout android:id="@id/ia_identifier_overlay" android:padding="@dimen/ia_video_text_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/ia_tv_app_info_button" android:layout_alignParentBottom="true" />
+</merge>

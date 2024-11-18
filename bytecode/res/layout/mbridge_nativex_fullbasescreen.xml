@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/mbridge_full_rl_playcontainer" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+        <RelativeLayout android:id="@id/mbridge_full_player_parent" android:background="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/mbridge_full_rl_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <ImageView android:id="@id/mbridge_full_iv_close" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/mbridge_nativex_close" android:scaleType="fitXY" android:contentDescription="closeButton" />
+    </RelativeLayout>
+    <ProgressBar android:id="@id/mbridge_full_pb_loading" android:visibility="gone" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+    <FrameLayout android:id="@id/mbridge_full_animation_content" android:background="@drawable/mbridge_nativex_fullview_background" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="horizontal" android:id="@id/mbridge_full_animation_player" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="45.0dip" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="45.0dip">
+            <TextView android:textSize="22.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/mbridge_full_tv_install" android:layout_width="fill_parent" android:layout_height="45.0dip" android:text="Install" android:lineSpacingExtra="10.0dip" />
+        </RelativeLayout>
+    </FrameLayout>
+</RelativeLayout>

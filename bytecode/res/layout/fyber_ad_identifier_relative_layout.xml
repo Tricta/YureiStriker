@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/ia_identifier_overlay" style="@style/ia_identifier_banner_overlay_style"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
