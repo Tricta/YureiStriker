@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: eSECEzEVqyde2+Xwuz8bfYM9Qis=
+
+Name: lib/arm64-v8a/libEncryptorP.so
+SHA1-Digest: 1k2hI4RVrsNkD+i+J3nQ0zW2RM0=
+
+Name: lib/arm64-v8a/lib_burst_generated.so
+SHA1-Digest: A5jUT4mpyrOwTh0jjx2hz8P4mCA=
+
+Name: lib/arm64-v8a/libapminsighta.so
+SHA1-Digest: JLjdshN5+v/Kld36JD8UyICiuv8=
+
+Name: lib/arm64-v8a/libapminsightb.so
+SHA1-Digest: nU6MV5ajPV6ZNtgiww2hw+g80N8=
+
+Name: lib/arm64-v8a/libapplovin-native-crash-reporter.so
+SHA1-Digest: ZwlJPkok1HNL5baVi03K7oPq2+M=
+
+Name: lib/arm64-v8a/libbuffer_pg.so
+SHA1-Digest: ZhfXIsF3f72pjaO2P3OW5TWc48s=
+
+Name: lib/arm64-v8a/libfile_lock_pg.so
+SHA1-Digest: MSeQxOe4xLdKYVRPh+S5u6cycyw=
+
+Name: lib/arm64-v8a/libil2cpp.so
+SHA1-Digest: wJzVz2ynhsksqXpdFKCMrOQqk8s=
+
+Name: lib/arm64-v8a/liblofelt_sdk.so
+SHA1-Digest: m0GhfPICSGun5Ns7xhxg9fdNgco=
+
+Name: lib/arm64-v8a/libmain.so
+SHA1-Digest: qd4bwTk1tduhBhLhYFIG+QaZmdk=
+
+Name: lib/arm64-v8a/libnms.so
+SHA1-Digest: OxpZk5+P60Vn3dOrEbdeJINI4tA=
+
+Name: lib/arm64-v8a/libsigner.so
+SHA1-Digest: 5vQDvvCnfdZDp8fheSbdfm8R/TA=
+
+Name: lib/arm64-v8a/libtobEmbedPagEncrypt.so
+SHA1-Digest: slD25nUO/QEmvNGofjrAP2S8vwc=
+
+Name: lib/arm64-v8a/libunity.so
+SHA1-Digest: FH+BBbjkv1S2aa7ZmswnsHU1uis=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
